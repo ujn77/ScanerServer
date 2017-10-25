@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         // ну и коммент от себя
         // еще коммент
+        // и один не от себя
     }
 }
